@@ -6,3 +6,8 @@ Collecting concept notes and best practices on waste management initiatives acro
 - e-waste
 - plastic waste
 - …
+
+
+
+# facilities
+- https://www.novis.me/ (Germany)
